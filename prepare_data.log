@@ -1,0 +1,13 @@
+2018-11-23 13:06:47,655 : INFO - Start script
+2018-11-23 13:06:47,748 : INFO - # Transformed files in folder: Transform_data
+2018-11-23 13:06:47,748 : INFO - 2238a735-0891-406d-84f3-09a36c083562_full_image.jpg
+2018-11-23 13:06:47,748 : INFO - 3321917c-c6c4-4ce1-b4d2-0baa1ad88c85_full_image.jpg
+2018-11-23 13:06:47,748 : INFO - 43573d33-307a-44d1-a1e7-b26b9d3f97a9_full_image.jpg
+2018-11-23 13:06:47,748 : INFO - 48a3693d-a2c4-48a7-9efe-de71d8a4254c_full_image.jpg
+2018-11-23 13:06:47,748 : INFO - 50f41735-856c-4adf-af9d-1dbd755f9a90_full_image.jpg
+2018-11-23 13:06:47,748 : INFO - 8127611c-ab5a-4e63-a367-8e037495f65c_full_image.jpg
+2018-11-23 13:06:47,748 : INFO - a571e8dd-b653-4f8e-911c-63a4577775b2_full_image.jpg
+2018-11-23 13:06:47,748 : INFO - b790835a-4577-40b2-a36d-43e5de834d2f_full_image.jpg
+2018-11-23 13:06:47,748 : INFO - bcc21447-d3ca-4685-a2c0-c6d89073f193_full_image.jpg
+2018-11-23 13:06:47,748 : INFO - c3ba2aac-22ec-4f2d-aa7a-e8397676e9b6_full_image.jpg
+2018-11-23 13:06:47,748 : INFO - Script done. All renamed images in folder: Transform_data
